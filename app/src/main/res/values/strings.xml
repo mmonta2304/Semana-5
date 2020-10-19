@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Semana 4 y 5</string>
+    <string name="nombre">nombre</string>
+    <string name="huesos">0</string>
+    <string name="Acerca">Acerca</string>
+    <string name="contacto">Contacto</string>
+    <string name="Contacto_nombre">Nombre:</string>
+    <string name="contacto_email">Email:</string>
+    <string name="contacto_comentario">Inserte un comentario:</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
